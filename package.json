@@ -1,8 +1,8 @@
 {
-  "name": "ffmpeg",
+  "name": "ffmpeg-container",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
-  "author": "First Last <first.last@example.com>",
+  "description": "ffmpeg as a service",
+  "author": "Rodolfo Guluarte <rodo@guluarte.com>",
   "main": "server.js",
   "type": "module",
   "scripts": {
